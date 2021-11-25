@@ -4,12 +4,8 @@
 <br />
 <br />
 
-<a href="https://github.com/alistkov/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=alistkov&repo=frontend-project-lvl1" />
-</a>
-<a href="https://github.com/alistkov/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=alistkov&repo=python-project-lvl1" />
-</a>
+| <a href="https://github.com/alistkov/github-readme-stats"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=alistkov&repo=frontend-project-lvl1&hide_border=true" /></a> | <a href="https://github.com/alistkov/github-readme-stats"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=alistkov&repo=python-project-lvl1&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <br />
 <br />
